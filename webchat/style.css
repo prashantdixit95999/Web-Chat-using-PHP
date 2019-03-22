@@ -1,0 +1,23 @@
+body
+{
+background-color:pink;
+}
+#main
+{
+	height:450px;
+	background-color:white;
+	margin-top:100px;
+	border-radius:25px:
+}
+#info
+{
+	margin-left:20px;
+	padding-top:2px;
+}
+input
+{
+	width:260px;
+	box-sizing:border-box;
+	border:2px solid #dc143x;
+	border-radius:4px;
+}
